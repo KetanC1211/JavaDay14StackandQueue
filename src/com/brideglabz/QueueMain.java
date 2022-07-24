@@ -8,6 +8,9 @@ public class QueueMain {
 		list.enqueue(30);
 		list.enqueue(70);
 		list.displayQueue();
+		//First in first out 
+		list.dequeue();
+		list.displayQueue();
 	}
 }
 
