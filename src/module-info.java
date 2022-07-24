@@ -1,0 +1,2 @@
+module JavaDAy14StackAndQueue {
+}
