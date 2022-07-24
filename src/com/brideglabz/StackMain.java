@@ -10,5 +10,10 @@ public class StackMain {
      stack.push(56);
      //printing current stack
      stack.display();
+     //seeing top element
+     System.out.println("\nTop element of stack is "+stack.peak());
+     //deleting elements from top
+     stack.pop();
+     stack.display();
  }
 }

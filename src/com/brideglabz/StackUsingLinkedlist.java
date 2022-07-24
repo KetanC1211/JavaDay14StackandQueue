@@ -35,7 +35,7 @@ class StackUsingLinkedlist {
 	}
 
 	// Function to see top element of Stack
-	public int peek() {
+	public int peak() {
 		if (!isEmpty()) {
 			return head.data;
 		}
